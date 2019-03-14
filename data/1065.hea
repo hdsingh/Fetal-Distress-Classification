@@ -1,0 +1,52 @@
+1065 2 4 19200
+1065.dat 16 100(0)/bpm 12 0 13425 23308 0 FHR
+1065.dat 16 100/nd 12 0 900 31000 0 UC
+
+#----- Additional parameters for record 1065
+
+#-- Outcome measures
+#pH           7.13
+#BDecf        8.24
+#pCO2         7.9
+#BE           -10.3
+#Apgar1       1
+#Apgar5       5
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  40
+#Weight(g)    3440
+#Sex          1
+
+#-- Maternal (risk-)factors
+#Age          27
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      270
+#NoProgress   1
+#CK/KP        0
+#II.stage     20
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1010681
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

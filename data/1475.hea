@@ -1,0 +1,52 @@
+1475 2 4 18000
+1475.dat 16 100(0)/bpm 12 0 13325 -23166 0 FHR
+1475.dat 16 100/nd 12 0 5900 -21170 0 UC
+
+#----- Additional parameters for record 1475
+
+#-- Outcome measures
+#pH           7.18
+#BDecf        4.31
+#pCO2         8.3
+#BE           -6.6
+#Apgar1       10
+#Apgar5       10
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  39
+#Weight(g)    3050
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          26
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      215
+#NoProgress   0
+#CK/KP        0
+#II.stage     15
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1109244
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

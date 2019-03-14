@@ -1,0 +1,52 @@
+2020 2 4 18155
+2020.dat 16 100(0)/bpm 12 0 15150 32182 0 FHR
+2020.dat 16 100/nd 12 0 0 -24992 0 UC
+
+#----- Additional parameters for record 2020
+
+#-- Outcome measures
+#pH           7.15
+#BDecf        3.09
+#pCO2         9.6
+#BE           -5.8
+#Apgar1       4
+#Apgar5       7
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  40
+#Weight(g)    3250
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          28
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 2
+#Induced      0
+#I.stage      207
+#NoProgress   0
+#CK/KP        0
+#II.stage     -1
+#Deliv. type  2
+
+#-- Signal information
+#dbID         1018535
+#Rec. type    1
+#Pos. II.st.  -1
+#Sig2Birth    0

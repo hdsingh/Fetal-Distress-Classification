@@ -1,0 +1,52 @@
+1076 2 4 15600
+1076.dat 16 100(0)/bpm 12 0 15150 13193 0 FHR
+1076.dat 16 100/nd 12 0 550 -8390 0 UC
+
+#----- Additional parameters for record 1076
+
+#-- Outcome measures
+#pH           7.21
+#BDecf        3.99
+#pCO2         7.7
+#BE           -6
+#Apgar1       9
+#Apgar5       9
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  38
+#Weight(g)    3150
+#Sex          1
+
+#-- Maternal (risk-)factors
+#Age          31
+#Gravidity    3
+#Parity       2
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 1
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      100
+#NoProgress   0
+#CK/KP        0
+#II.stage     5
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1015775
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

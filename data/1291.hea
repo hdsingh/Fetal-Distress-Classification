@@ -1,0 +1,52 @@
+1291 2 4 19200
+1291.dat 16 100(0)/bpm 12 0 14950 -29607 0 FHR
+1291.dat 16 100/nd 12 0 1000 11138 0 UC
+
+#----- Additional parameters for record 1291
+
+#-- Outcome measures
+#pH           6.93
+#BDecf        12.09
+#pCO2         11.9
+#BE           -15.6
+#Apgar1       6
+#Apgar5       8
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  40
+#Weight(g)    3550
+#Sex          1
+
+#-- Maternal (risk-)factors
+#Age          27
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 1
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      245
+#NoProgress   0
+#CK/KP        0
+#II.stage     20
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1064562
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

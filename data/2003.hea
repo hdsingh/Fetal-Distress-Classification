@@ -1,0 +1,52 @@
+2003 2 4 21218
+2003.dat 16 100(0)/bpm 12 0 14625 -29103 0 FHR
+2003.dat 16 100/nd 12 0 1400 3842 0 UC
+
+#----- Additional parameters for record 2003
+
+#-- Outcome measures
+#pH           6.96
+#BDecf        16.68
+#pCO2         7.8
+#BE           -19
+#Apgar1       6
+#Apgar5       8
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  41
+#Weight(g)    3650
+#Sex          1
+
+#-- Maternal (risk-)factors
+#Age          25
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      415
+#NoProgress   1
+#CK/KP        0
+#II.stage     -1
+#Deliv. type  2
+
+#-- Signal information
+#dbID         989425
+#Rec. type    1
+#Pos. II.st.  -1
+#Sig2Birth    0

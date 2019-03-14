@@ -1,0 +1,52 @@
+1236 2 4 16800
+1236.dat 16 100(0)/bpm 12 0 13050 -16490 0 FHR
+1236.dat 16 100/nd 12 0 3000 16664 0 UC
+
+#----- Additional parameters for record 1236
+
+#-- Outcome measures
+#pH           7.27
+#BDecf        5.92
+#pCO2         5.8
+#BE           -7.4
+#Apgar1       9
+#Apgar5       10
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  41
+#Weight(g)    3040
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          29
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 1
+#Preeclampsia 1
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     1
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      341
+#NoProgress   0
+#CK/KP        0
+#II.stage     10
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1054536
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

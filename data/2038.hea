@@ -1,0 +1,52 @@
+2038 2 4 18568
+2038.dat 16 100(0)/bpm 12 0 15950 31816 0 FHR
+2038.dat 16 100/nd 12 0 0 -16540 0 UC
+
+#----- Additional parameters for record 2038
+
+#-- Outcome measures
+#pH           7.36
+#BDecf        3.5
+#pCO2         5
+#BE           -4
+#Apgar1       5
+#Apgar5       8
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  40
+#Weight(g)    4180
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          27
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     1
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      210
+#NoProgress   0
+#CK/KP        0
+#II.stage     -1
+#Deliv. type  2
+
+#-- Signal information
+#dbID         1065294
+#Rec. type    1
+#Pos. II.st.  -1
+#Sig2Birth    0

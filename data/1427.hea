@@ -1,0 +1,52 @@
+1427 2 4 15600
+1427.dat 16 100(0)/bpm 12 0 22675 -103 0 FHR
+1427.dat 16 100/nd 12 0 2450 4532 0 UC
+
+#----- Additional parameters for record 1427
+
+#-- Outcome measures
+#pH           7.37
+#BDecf        1.34
+#pCO2         5.4
+#BE           -1.9
+#Apgar1       9
+#Apgar5       9
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  37
+#Weight(g)    2600
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          23
+#Gravidity    5
+#Parity       1
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     1
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      71
+#NoProgress   0
+#CK/KP        0
+#II.stage     5
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1093769
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

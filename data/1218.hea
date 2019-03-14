@@ -1,0 +1,52 @@
+1218 2 4 21030
+1218.dat 16 100(0)/bpm 12 0 0 -7024 0 FHR
+1218.dat 16 100/nd 12 0 0 32068 0 UC
+
+#----- Additional parameters for record 1218
+
+#-- Outcome measures
+#pH           7.39
+#BDecf        4.14
+#pCO2         4.4
+#BE           -4.3
+#Apgar1       9
+#Apgar5       9
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  41
+#Weight(g)    3940
+#Sex          1
+
+#-- Maternal (risk-)factors
+#Age          27
+#Gravidity    1
+#Parity       1
+#Diabetes     0
+#Hypertension 1
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      1
+#I.stage      48
+#NoProgress   0
+#CK/KP        0
+#II.stage     10
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1051175
+#Rec. type    1
+#Pos. II.st.  18630
+#Sig2Birth    0

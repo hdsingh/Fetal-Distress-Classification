@@ -1,0 +1,52 @@
+1094 2 4 21600
+1094.dat 16 100(0)/bpm 12 0 12750 -4055 0 FHR
+1094.dat 16 100/nd 12 0 1750 -2710 0 UC
+
+#----- Additional parameters for record 1094
+
+#-- Outcome measures
+#pH           7.2
+#BDecf        4.09
+#pCO2         7.9
+#BE           -6.5
+#Apgar1       9
+#Apgar5       9
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  38
+#Weight(g)    2510
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          25
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 3
+#Induced      0
+#I.stage      90
+#NoProgress   0
+#CK/KP        0
+#II.stage     30
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1020086
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

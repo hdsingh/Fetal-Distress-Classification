@@ -1,0 +1,52 @@
+1023 2 4 18000
+1023.dat 16 100(0)/bpm 12 0 14725 25646 0 FHR
+1023.dat 16 100/nd 12 0 350 18698 0 UC
+
+#----- Additional parameters for record 1023
+
+#-- Outcome measures
+#pH           7.3
+#BDecf        3.19
+#pCO2         6.1
+#BE           -4.5
+#Apgar1       9
+#Apgar5       10
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  41
+#Weight(g)    3250
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          33
+#Gravidity    2
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      1
+#I.stage      145
+#NoProgress   0
+#CK/KP        0
+#II.stage     15
+#Deliv. type  1
+
+#-- Signal information
+#dbID         993676
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

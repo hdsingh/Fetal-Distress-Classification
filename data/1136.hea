@@ -1,0 +1,52 @@
+1136 2 4 15600
+1136.dat 16 100(0)/bpm 12 0 15900 1707 0 FHR
+1136.dat 16 100/nd 12 0 4550 6702 0 UC
+
+#----- Additional parameters for record 1136
+
+#-- Outcome measures
+#pH           7.17
+#BDecf        5.19
+#pCO2         8.2
+#BE           -7.4
+#Apgar1       9
+#Apgar5       9
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  40
+#Weight(g)    3830
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          37
+#Gravidity    7
+#Parity       7
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      220
+#NoProgress   0
+#CK/KP        0
+#II.stage     5
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1032732
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0

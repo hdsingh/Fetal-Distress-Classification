@@ -1,0 +1,52 @@
+1239 2 4 20400
+1239.dat 16 100(0)/bpm 12 0 0 -21793 0 FHR
+1239.dat 16 100/nd 12 0 1250 -20460 0 UC
+
+#----- Additional parameters for record 1239
+
+#-- Outcome measures
+#pH           7.12
+#BDecf        9.46
+#pCO2         7.6
+#BE           -11.7
+#Apgar1       8
+#Apgar5       8
+
+#-- !NotReadyYet! Neonatology outcome measures !NotReadyYet!
+#NICU days    0
+#Seizures     0
+#HIE          0
+#Intubation   0
+#Main diag.   0
+#Other diag.  0
+
+#-- Fetus/Neonate descriptors
+#Gest. weeks  40
+#Weight(g)    3360
+#Sex          2
+
+#-- Maternal (risk-)factors
+#Age          32
+#Gravidity    1
+#Parity       0
+#Diabetes     0
+#Hypertension 0
+#Preeclampsia 0
+#Liq. praecox 0
+#Pyrexia      0
+#Meconium     0
+
+#-- Delivery descriptors
+#Presentation 1
+#Induced      0
+#I.stage      325
+#NoProgress   0
+#CK/KP        0
+#II.stage     25
+#Deliv. type  1
+
+#-- Signal information
+#dbID         1055285
+#Rec. type    1
+#Pos. II.st.  14400
+#Sig2Birth    0
