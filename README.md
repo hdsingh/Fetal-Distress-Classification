@@ -5,7 +5,7 @@
 During the child birth doctor wants to know the status of the fetus for safe delivery. Fetal distress before and during childbirth indicating that the fetus has been receiving inadequate oxygen. Cardiotocography monitors two vital parameters, i.e Fetal heart rate (FHR) and uterine contractions (UC). These time series data and can be used to detect fetal distress. 
 
 ### Additional Info
-[How I outperformed CTG Experts with 15 years of experience in 15 days!!](https://medium.com/@harmandeepsinghhds/how-i-outperformed-ctg-experts-with-15-years-of-experience-in-15-days-b848ae87655a?source=friends_link&sk=fb2d6ad0ab32224bd751ab497694bfb7)
+[How I outperformed CTG Experts with 15 years of experience in 15 days!!](https://blog.usejournal.com/how-i-outperformed-ctg-experts-with-15-years-of-experience-in-15-days-b848ae87655a)
 
 ## Goal
 A system that takes these two time series data as inputs and classifies them as "Distress", "Suspicious" and "Normal". This project aims to automate the process of classification of FHR and UC signals to find status of fetal health with imporoved accuracy.
